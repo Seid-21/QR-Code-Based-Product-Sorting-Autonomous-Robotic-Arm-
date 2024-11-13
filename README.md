@@ -86,11 +86,11 @@ This project demonstrates a practical solution for automating product sorting in
 
 ### 1. Robotic Arm Model
 
-![Robotic Arm Model](sandbox:/mnt/data/photo_3_2022-12-24_09-05-19.jpg)
+![Robotic Arm Model](photo_4_2022-12-24_09-05-19.jpg)
 
 ### 2. Robotic Arm in Action
 
-![Robotic Arm in Action](sandbox:/mnt/data/photo_2_2022-12-24_09-05-19.jpg)
+![Robotic Arm in Action](photo_2_2022-12-24_09-05-19.jpg)
 
 ---
 
