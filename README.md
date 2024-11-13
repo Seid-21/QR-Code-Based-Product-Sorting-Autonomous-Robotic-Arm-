@@ -20,8 +20,6 @@ You can watch a demonstration of the robotic arm in action here:
 ![Robotic Arm Model](20210723_163615.jpg)
 
 
----
-
 
 ---
 
