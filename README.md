@@ -9,7 +9,20 @@
 You can watch a demonstration of the robotic arm in action here:
 
 [QR Code-Based Robotic Arm Demo](https://youtu.be/snNzrZxwVzw)
+
+---
+
+## Images
+
+### 1. Robotic Arm Model
+
+
 ![Robotic Arm Model](20210723_163615.jpg)
+
+
+---
+
+
 ---
 
 ## Overview
