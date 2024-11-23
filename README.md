@@ -5,11 +5,9 @@
 # QR-Code-Based-Product-Sorting-Autonomous-Robotic-Arm
 
 ## Video Demo
-![RAvideo-ezgif com-optimize](https://github.com/user-attachments/assets/6686bbad-645e-4a86-a2fe-0da2170fc9ee)
----
-You can watch a demonstration of the robotic arm in action here:
 
-[QR Code-Based Robotic Arm Demo](https://youtu.be/snNzrZxwVzw)
+
+[![QR-Code-Based-Product-Sorting-Autonomous-Robotic-Arm](https://img.youtube.com/vi/snNzrZxwVzw/0.jpg)](https://www.youtube.com/watch?v=snNzrZxwVzw)
 
 
 
